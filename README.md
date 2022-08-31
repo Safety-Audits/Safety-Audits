@@ -21,9 +21,9 @@ KYC verification. ( coming soon)
 
 
 
-Website: https://safety.yellowcompany.org/
+Website: https://safety-audits.com
 
-Telegram: https://t.me/SafetyAudits
+Telegram: https://t.me/AuditSafety
 
 Github: https://github.com/Safety-Audits
 
@@ -31,6 +31,6 @@ Github: https://github.com/Safety-Audits
 
 https://github.com/Safety-Audits
 
-safety@yellowcompany.org
+contact@safety-audits.com
 
-https://t.me/SafetyAudits
+https://t.me/AuditSafety
